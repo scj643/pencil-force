@@ -1,2 +1,4 @@
 # pencil-force
-Force touch with 
+Force touch with the apple pencil
+
+
