@@ -1,0 +1,9 @@
+Package: com.scj643.forcetouch
+Name: force
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: scj643
+Author: scj643
+Section: Tweaks
